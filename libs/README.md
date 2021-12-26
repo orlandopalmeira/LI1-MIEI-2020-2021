@@ -1,0 +1,2 @@
+# Bibiotecas auxiliares no desenvolvimento das tarefas
+Nesta pasta encontram-se os ficheiros Types.hs e FileUtils.hs que possuem funções auxiliares bem bomo estruturas de dados utilizadas na realização do trabalho.
