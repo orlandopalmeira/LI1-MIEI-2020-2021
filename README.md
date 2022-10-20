@@ -1,6 +1,6 @@
 # Projeto do jogo Pacman - Laboratórios de Informática I Uminho 2020/2021
 
-[![umeg.png](https://i.postimg.cc/8PZghHDD/umeg.png)](https://postimg.cc/6y4PKCy1)
+<img src='https://i.postimg.cc/hjkbcqPN/EEUM-logo.png' width="30%"/>
 
 </br>
 
