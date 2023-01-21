@@ -1,51 +1,19 @@
-# Projeto do jogo Pacman - Laboratórios de Informática I Uminho 2020/2021
-
 <img src='https://i.postimg.cc/hjkbcqPN/EEUM-logo.png' width="30%"/>
 
-</br>
+<h3 align="center">Licenciatura em Engenharia Informática <br> Trabalho prático de Laboratórios de Informática I <br> 2020/2021 </h3>
 
-## Observações:
-- É extremamente necessário ler todas as README's presentes nas pastas. Elas contêm informações importantes, nomeadamente quanto aos comandos de execução de ficheiros. Alguns ficheiros importam módulos presentes noutras pastas e os comandos a executar são bastante específicos.
+---
+<h3 align="center"> Colaboradores &#129309 </h2>
 
- - O relatório está dividido pela documentação de cada tarefa.
+<div align="center">
 
-</br>
+| Nome             | Número |
+|------------------|--------|
+| Orlando Palmeira | A97755 |
 
-### Trabalho elaborado por:
-- Orlando José da Cunha Palmeira A97755
-</br>
+</div>
 
-### Resumo:
-No âmbito da unidade curricular de Laboratórios de Informática I do Mestrado Integrado em Engenharia Informática da Universidade do Minho, desenvolveu-se em Haskell o tão conhecido jogo do *PacMan*.
-A elaboração do projeto presente neste repositório permite executar o jogo no terminal.
+### Nota: 16 / 20
 
-</br>
-
-## Comandos da makefile
-- Este comando da makefile executa os comandos make main e make docS
-```
-make all
-```
-- Este comando executa o ghc para compilar todos os ficheiros relativos às tarefas.
-```
-make main
-```
-- Este comando executa o haddock para gerar a documentação de todas as tarefas.
-```
-make docS
-```
-- Este comando é executado para eliminar ficheiros desnecessários.
-```
-make clean
-```
-</br>
-
-## Hiperligações úteis:
-
-- [Documentação](docs/index.html) 
-
-- [README da Main](src/README.md)
-
-- [README da libs](libs/README.md)
-
-- [README dos testes](tests/README.md)
+<h3><i>Keywords</i></h3>
+LI1, Laboratórios de Informática I, laboratorios de informatica I, universidade do minho, uminho, miei, lei, engenharia informatica
